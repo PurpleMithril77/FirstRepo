@@ -1,2 +1,2 @@
 # FirstRepo
-idklol
+first commit
